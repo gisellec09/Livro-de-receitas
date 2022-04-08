@@ -1,5 +1,5 @@
 # Livro-de-receitas. Desafio Git/Github
-Livro com receitas gostosas que irão te ajudar no se  u dia a dia  
+Livro com receitas gostosas que irão te ajudar no seu dia  
 
 ## Links Úteis 
 [Sintaxe Basica.Markdown](https://portalaltadefinicao.com/cestinha-de-churros-para-sorvete-receita-do-mais-voce-07-04/)

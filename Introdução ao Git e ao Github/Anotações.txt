@@ -1,0 +1,11 @@
+Após criar repositório no Github com nome de Livro-de-receitas.Desafio Git/Github.
+
+Para adicionar ao PC:
+- No repositório copie o link
+- Abra o Git bash dentro da pasta que irá ficar o arquivo
+- Inicie o código: git clone e cole o link do repositório e aperte enter.
+- após escreva: cd nome do repositório e enter
+- git status pra saber como está
+-para add os componentes inseridos após clonar a pasta digite
+- git add . e enter
+- digite git status
